@@ -1,1 +1,1 @@
-# HuffmanCompression
+# HuffmanCoding
